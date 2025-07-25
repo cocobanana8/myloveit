@@ -16,29 +16,24 @@ Dalam suratnya kepada jemaat di Korintus, Rasul Paulus mengajak kita melihat ken
 Paulus tidak menutupi kenyataan pahit hidup sebagai pelayan Tuhan: ditindas, dianiaya, terjatuh, bahkan merasa hampir mati. Tetapi dalam semua itu, kasih karunia Allah terus menopang. Karena itu, pelayanan bukanlah jalan kemudahan atau kehormatan dunia, tetapi jalan salib yang penuh pengorbanan.
 
 Mazmur 126 memperkuat pesan ini dengan janji indah:
-
-    “Orang-orang yang menabur dengan mencucurkan air mata, akan menuai dengan sorak-sorai.”
-    (Mzm 126:5)
+“Orang-orang yang menabur dengan mencucurkan air mata, akan menuai dengan sorak-sorai.”
+(Mzm 126:5)
 
 Air mata dalam pelayanan tidak sia-sia. Tuhan melihat, Tuhan mengingat, dan Dia akan menumbuhkan buah dari setiap benih yang ditaburkan dalam kesetiaan.
 
 Dalam Injil Matius, kita membaca bagaimana ibu dari Yakobus dan Yohanes meminta posisi istimewa bagi anak-anaknya di dalam kerajaan Yesus. Permintaan ini memicu ketegangan di antara para murid. Tapi Yesus meluruskan pandangan mereka dengan berkata:
 
-    “Barangsiapa ingin menjadi besar di antara kamu, hendaklah ia menjadi pelayanmu.”
-    (Matius 20:26)
+“Barangsiapa ingin menjadi besar di antara kamu, hendaklah ia menjadi pelayanmu.”
+(Matius 20:26)
 
 Dalam Kerajaan Allah, keagungan tidak diukur dari kedudukan, tetapi dari kerendahan hati untuk melayani. Yesus sendiri—Tuhan dan Guru kita—datang bukan untuk dilayani, melainkan untuk melayani dan memberikan nyawa-Nya bagi banyak orang.
 
 Refleksi:
 
-    Apakah aku siap menjadi bejana tanah liat yang dipakai Tuhan, meski lemah dan tak
-    sempurna?
+Apakah aku siap menjadi bejana tanah liat yang dipakai Tuhan, meski lemah dan tak sempurna?
+Apakah aku bersedia melayani dalam diam, dalam penderitaan, bahkan tanpa pengakuan dari orang lain?
 
-    Apakah aku bersedia melayani dalam diam, dalam penderitaan, bahkan tanpa pengakuan
-    dari orang lain?
-
-    Apakah aku masih menaruh harapan pada pengakuan dunia, ataukah hatiku terpaut kepada
-    Kristus yang melayani sampai akhir?
+Apakah aku masih menaruh harapan pada pengakuan dunia, ataukah hatiku terpaut kepada Kristus yang melayani sampai akhir?
 
 Doa:
 
