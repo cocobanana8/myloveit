@@ -1,0 +1,61 @@
+baseURL = "https://journey.nxtlvl.id/"
+title = "My Journey"
+theme = "LoveIt"
+languageCode = "id"
+defaultContentLanguage = "id"
+hasCJKLanguage = true
+[pagination]
+  pagerSize = 5
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+enableRobotsTXT = true
+[params]
+  [params.header]
+    [params.header.title]
+      name = "Next Level Journey"
+  #title = "ini dari params My Journey"
+  description = "Renungan Harian"
+  defaultTheme = "auto"
+  dateFormat = "2006-01-02"
+  enableReadingTime = true
+  enableEmoji = true
+  showWordCount = true
+  mainSections = ["posts", "renungan", "blog"]
+  [params.author]
+   name = "Nxt"
+   email = "edhy@example.com"
+   link = "edhyprajitno9@gmail.com"
+
+  
+  [params.home.profile]
+    subtitle = "Refleksi iman, harapan, dan kasih karunia dalam keseharian"
+    title = "Perjalanan menuju hidup yang lebih dalam dan lebih tinggi"
+    avatarURL = "/images/luce-and-friend.png"
+  [params.page.toc]
+    enable = false
+  [params.footer]
+    enable = true
+    custom = true
+  [params.search]
+    enable = true
+    type = "lunr"
+    contentLength = 4000
+    placeholder = "Cari..."
+    maxResultLength = 10
+    snippetLength = 30
+    highlightTag = "em"
+    absoluteURL = true
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Beranda"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "Tentang"
+    url = "/about/"
+    weight = 2

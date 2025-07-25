@@ -1,0 +1,19 @@
+# Hugo build output
+/public/
+/resources/_gen/
+/assets/js/bundle.js
+
+# OS / Editor / Tool files
+.DS_Store
+Thumbs.db
+*.log
+
+# VSCode settings
+.vscode/
+
+# Node/npm (jika kamu install Tailwind atau js lainnya)
+node_modules/
+package-lock.json
+
+# Files from deployment or Hugo cache
+hugo_stats.json
