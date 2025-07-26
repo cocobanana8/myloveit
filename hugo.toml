@@ -31,7 +31,7 @@ enableRobotsTXT = true
   [params.home.profile]
     subtitle = "Refleksi iman, harapan, dan kasih karunia dalam keseharian"
     title = "Perjalanan menuju hidup yang lebih dalam dan lebih tinggi"
-    avatarURL = "/images/luce-and-friend.webp"
+    avatarURL = "/images/luce-and-friends.webp"
   [params.page.toc]
     enable = false
   [params.footer]
