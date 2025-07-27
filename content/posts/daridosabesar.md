@@ -1,6 +1,6 @@
 ---
 title: "Dari Dosa Besar ke Rencana Besar"
-Date: 2025-07-28T00:00:00+07:00
+Date: 2025-07-28T00:00:00-07:00
 categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
