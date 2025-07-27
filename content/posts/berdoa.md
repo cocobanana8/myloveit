@@ -1,6 +1,6 @@
 ---
 title: "Berdoa Seperti Anak kepada Bapa"
-publishDate: 2025-07-27
+Date: 2025-07-27T00:00:00+07:00
 categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
