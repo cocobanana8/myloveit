@@ -1,6 +1,6 @@
 ---
 title: "Tinggal Dalam Kasih, Tinggal Dalam Tuhan"
-Date: 2025-07-29T00:00:00+07:00
+Date: 2025-07-29
 categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
