@@ -5,7 +5,7 @@ categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
 
-# 🌿 Renungan Harian – Matius 13:44–46
+# 🌿 Renungan Harian
 
 ### 📖 Bacaan:
 
