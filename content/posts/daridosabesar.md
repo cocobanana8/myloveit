@@ -5,7 +5,7 @@ categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
 
-_Bacaan: Keluaran 32:15–24,30–34; Mazmur 106:19–23; Matius 13:31–35_
+📖 _Bacaan: Keluaran 32:15–24,30–34; Mazmur 106:19–23; Matius 13:31–35_
 
 Dalam bacaan dari _Kitab Keluaran_, kita membaca tentang salah satu dosa terbesar bangsa Israel: **membuat anak lembu emas** dan menyembahnya, hanya beberapa saat setelah menerima hukum Tuhan. Ini adalah bentuk pengkhianatan yang menyakitkan. Musa pun murka dan menghancurkan loh batu berisi hukum Allah:
 

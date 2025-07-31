@@ -5,7 +5,7 @@ categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
 
-_Bacaan: 2 Korintus 4:7–15; Mazmur 126:1–6; Matius 20:20–28_
+📖 _Bacaan: 2 Korintus 4:7–15; Mazmur 126:1–6; Matius 20:20–28_
 
 > “Tetapi harta ini kami punyai dalam bejana tanah liat, supaya nyata, bahwa kekuatan yang melimpah-limpah itu berasal dari Allah, bukan dari diri kami.”  
 > _(2 Korintus 4:7)_

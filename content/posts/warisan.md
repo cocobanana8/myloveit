@@ -5,7 +5,7 @@ categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
 
-_Bacaan: Sirakh 44:1,10–15; Mazmur 132:11,13–14,17–18; Matius 13:16–17_
+📖 _Bacaan: Sirakh 44:1,10–15; Mazmur 132:11,13–14,17–18; Matius 13:16–17_
 
 Dalam bacaan dari _Kitab Sirakh_, kita diajak untuk mengenang "para tokoh ternama" — para leluhur yang hidupnya penuh iman dan kesetiaan. Mereka tidak selalu dikenal dunia, tetapi dalam terang Tuhan, mereka dikenang selama-lamanya.
 

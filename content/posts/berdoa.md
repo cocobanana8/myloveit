@@ -5,7 +5,7 @@ categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
 
-_Bacaan: Kejadian 18:20–33; Mazmur 138:1–3,6–8; Kolose 2:12–14; Lukas 11:1–13_
+📖 _Bacaan: Kejadian 18:20–33; Mazmur 138:1–3,6–8; Kolose 2:12–14; Lukas 11:1–13_
 
 Dalam Injil hari ini, para murid meminta sesuatu yang sangat penting kepada Yesus:
 
