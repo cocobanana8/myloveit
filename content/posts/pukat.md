@@ -7,11 +7,7 @@ tags: ["iman", "doa"]
 
 # 🌊 Renungan Harian – Matius 13:47–53
 
-##
-
-### 📖 Bacaan:
-
-_Matius 13:47–53_
+### 📖 Bacaan:_Matius 13:47–53_
 
 > "Demikian pula hal Kerajaan Surga itu seumpama pukat yang dilabuhkan di laut, lalu mengumpulkan berbagai-bagai jenis ikan. Setelah penuh, pukat itu pun diseret orang ke pantai, lalu duduklah mereka dan mengumpulkan ikan yang baik ke dalam pasu dan ikan yang tidak baik mereka buang. Demikianlah juga pada akhir zaman: malaikat-malaikat akan datang memisahkan orang jahat dari orang benar, lalu mencampakkan orang jahat ke dalam dapur api; di sanalah akan terdapat ratapan dan kertakan gigi."  
 > (Mat 13:47–50)
