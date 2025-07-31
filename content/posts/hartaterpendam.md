@@ -5,7 +5,7 @@ categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
 
-### 📖 Bacaan:_Matius 13:44-46_
+_Bacaan:Matius 13:44-46_
 
 > “Kerajaan Surga itu seumpama harta yang terpendam di ladang, yang ditemukan orang, lalu dipendamkannya lagi. Oleh sebab sukacitanya pergilah ia menjual seluruh miliknya lalu membeli ladang itu.  
 > Demikian juga hal Kerajaan Surga itu seumpama seorang pedagang yang mencari mutiara yang indah. Setelah ditemukannya satu mutiara yang sangat berharga, iapun pergi menjual seluruh miliknya lalu membeli mutiara itu.”
