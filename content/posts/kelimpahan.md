@@ -1,6 +1,6 @@
 ---
 title: "Sedikit di Tangan Yesus Bisa Jadi Berkelimpahan"
-Date: 2025-08-04
+Date: 2025-08-04T00:00:00+07:00
 categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
