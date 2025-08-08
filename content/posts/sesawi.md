@@ -1,6 +1,6 @@
 ---
 title: "Iman sebesar biji sesawi"
-Date: 2025-08-03
+Date: 2025-08-09
 categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
