@@ -5,7 +5,7 @@ categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
 
-_Bacaan: 1 Yohanes 4:7–16; Mazmur 34:2–11; Yohanes 11:19–27_
+📖 _Bacaan: 1 Yohanes 4:7–16; Mazmur 34:2–11; Yohanes 11:19–27_
 
 Surat Yohanes hari ini menekankan inti dari hidup Kristiani: **kasih**.
 
