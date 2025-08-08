@@ -5,7 +5,7 @@ categories: ["renungan"]
 tags: ["iman", "doa"]
 ---
 
-# 📖 Bacaan Injil: Matius 16:24–28
+📖 Bacaan Injil: Matius 16:24–28
 
 > _“Apa gunanya seorang memperoleh seluruh dunia tetapi kehilangan nyawanya?”_ (Mat 16:26)
 
