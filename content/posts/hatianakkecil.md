@@ -1,5 +1,5 @@
 ---
-title: "Menjadi hati anak kecil"
+title: "Mempunyai hati seperti anak kecil"
 Date: 2025-08-12
 categories: ["renungan"]
 tags: ["iman", "doa"]
